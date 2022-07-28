@@ -1,6 +1,12 @@
-.padding-top {
-    padding-top: 10%;
+.padding {
+    padding: 5%;
 }
 .object-fit {
     object-fit: cover;
+}
+.bg-light-green {
+    background-color: #c9dad0;
+}
+.text-color-green {
+    color: #198776;
 }
