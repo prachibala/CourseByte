@@ -1,12 +1,37 @@
 .padding {
     padding: 5%;
 }
+
 .object-fit {
     object-fit: cover;
 }
+
 .bg-light-green {
     background-color: #c9dad0;
 }
+
 .text-color-green {
     color: #198776;
+}
+
+.bg-green {
+    background-color: #198776;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #c9dad0;
+    color: #198776;
+}
+
+.margin-extra {
+    margin: 80px 0;
+}
+
+.logo-img {
+    height: 25px;
+}
+
+.carousel-caption {
+    top: 35%;
+    bottom: auto;
 }
